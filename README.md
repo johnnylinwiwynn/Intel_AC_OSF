@@ -1,5 +1,6 @@
 # Steps for building Intel 2S Archer City CRB coreboot + LinuxBoot
 It was verified that it can boot CentOS Stream 8, Linux v5.14.1.  
+Intel's guidebook [A guidebook for FSP-coreboot firmware solution on Eagle Stream platform](https://www.intel.com/content/www/us/en/content-details/778593/coreboot-practice-on-eagle-stream.html) 
 
 ## Build Linux payload:  
 `git clone https://github.com/linuxboot/osf-builder`  
